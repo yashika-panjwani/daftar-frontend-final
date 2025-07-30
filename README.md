@@ -1,12 +1,43 @@
-# React + Vite
+# 👩‍💼 Daftar by Ambica
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Daftar by Ambica** is an elegant e-commerce platform dedicated to office-going women, offering handpicked collections of cotton and linen wear. Built with a modern tech stack, it provides a seamless shopping experience along with a secure admin dashboard for product management.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Deployments
 
-## Expanding the ESLint configuration
+- 🔗 **User Website**: https://daftar-frontend-final-rvaz.vercel.app/
+- 🔐 **Admin Panel**: https://daftar-admin-delta.vercel.app/
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+> ✅ Make sure to replace these links with your actual Vercel URLs if they differ.
+
+---
+
+## ✨ Features
+
+### 🛍️ User Website
+- Beautiful and responsive user interface
+- Product listing with image, price, and description
+- Add to Cart & Checkout flow
+- Fully mobile-friendly
+- Built using React, Vite, and Tailwind CSS
+
+### 🛠️ Admin Panel
+- Secure admin login
+- Create, read, update, and delete products
+- Product image management
+- Real-time dashboard and form validations
+- Role-based protected routes
+
+---
+
+## 🧰 Tech Stack
+
+| Frontend           | Backend          | Styling        | Deployment |
+|--------------------|------------------|----------------|------------|
+| React.js           | Node.js          | Tailwind CSS   | Vercel     |
+| Vite               | Express.js       | DaisyUI        | MongoDB Atlas |
+| Redux Toolkit      | MongoDB          |                |            |
+
+
+
