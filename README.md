@@ -9,7 +9,6 @@
 - 🔗 **User Website**: https://daftar-frontend-final-rvaz.vercel.app/
 - 🔐 **Admin Panel**: https://daftar-admin-delta.vercel.app/
 
-> ✅ Make sure to replace these links with your actual Vercel URLs if they differ.
 
 ---
 
@@ -37,7 +36,7 @@
 |--------------------|------------------|----------------|------------|
 | React.js           | Node.js          | Tailwind CSS   | Vercel     |
 | Vite               | Express.js       | DaisyUI        | MongoDB Atlas |
-| Redux Toolkit      | MongoDB          |                |            |
+|                    | MongoDB          |                |            |
 
 
 
